@@ -1,0 +1,19 @@
+# Core
+python-dotenv
+streamlit
+
+# LangChain core + integrations
+langchain
+langchain-community
+langchain-huggingface
+
+# Hugging Face
+huggingface-hub
+transformers
+accelerate
+
+# ML backend
+torch
+
+faiss-cpu
+sentence-transformers
